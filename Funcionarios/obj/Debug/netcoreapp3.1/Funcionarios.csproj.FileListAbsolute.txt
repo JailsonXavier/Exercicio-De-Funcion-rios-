@@ -1,0 +1,13 @@
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.exe
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.deps.json
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.json
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.dev.json
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csprojAssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\xavie\OneDrive\Documentos\Revisando .net C#\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.genruntimeconfig.cache
